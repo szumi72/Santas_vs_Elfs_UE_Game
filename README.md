@@ -8,7 +8,7 @@ This Unreal Engine version expands that concept into a visual and interactive ex
 while preserving the core mechanics.
 
 (Optionally: link to the original terminal version can be found here)
-[LINK TO TERMINAL GAME]
+https://github.com/szumi72/wfiis-3sem-oop/tree/0645eaf03c93265325c5218f4c2ab921320dcafb/labRpgGame
 
 
 --- CORE CONCEPT ---
