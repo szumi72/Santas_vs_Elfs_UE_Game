@@ -97,3 +97,7 @@ a full Unreal Engine project with:
 - Scalable systems
 
 This project serves as a learning and portfolio piece.
+
+## Gameplay Video
+
+[![Watch the video]](https://youtu.be/JvT87R__GZU)
